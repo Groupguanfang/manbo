@@ -1,5 +1,5 @@
 ---
-title: 哈基米: dance 哈基米 dance
+title: dance 哈基米 dance
 adaptedFrom: Tung Sahur Tung
 sources:
   - sourceType: bilibili
