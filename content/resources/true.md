@@ -1,7 +1,7 @@
 ---
-title: 寂静岭 true
-adaptedFrom: 寂静岭 true
+title: TruE
+adaptedFrom: TruE
 sources:
   - sourceType: bilibili
-    bvid: BV1QeGNzmEfg
+    bvid: BV1ha3MzXEZ5
 ---
